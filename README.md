@@ -1,1 +1,1 @@
-My site on pure HTML, CSS, JS.
+My site as CV on pure HTML, CSS, JS.
